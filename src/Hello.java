@@ -6,5 +6,10 @@ public class Hello {
         System.out.println("第一条信息");
         System.out.println("第二条信息");
         System.out.println("fix");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+
+
     }
 }
