@@ -9,5 +9,10 @@ public class Hello {
         System.out.println("第四条信息");
         System.out.println("master");
         System.out.println("fix");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+
+
     }
 }
