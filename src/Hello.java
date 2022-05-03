@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("第二条信息");
         System.out.println("第三条信息");
         System.out.println("第四条信息");
+        System.out.println("我是hot-fix创造的第五条信息");
     }
 }
