@@ -19,6 +19,7 @@ public class User {
     public static void main(String[] args) {
         System.out.println("hate world");
         System.out.println("!!");
+        System.out.println("!!!!");
     }
 
     public User(String name, int age, String address, String phone) {
