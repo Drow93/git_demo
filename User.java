@@ -17,7 +17,7 @@ public class User {
     private String phone;
 
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hate world");
     }
 
     public User(String name, int age, String address, String phone) {
