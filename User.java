@@ -14,10 +14,13 @@ public class User {
 
     private String address;
 
-    public User(String name, int age, String address) {
+    private String phone;
+
+    public User(String name, int age, String address, String phone) {
         this.name = name;
         this.age = age;
         this.address = address;
+        this.phone = phone;
     }
 
     public String getName() {
@@ -42,5 +45,13 @@ public class User {
 
     public void setAddress(String address) {
         this.address = address;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
     }
 }
